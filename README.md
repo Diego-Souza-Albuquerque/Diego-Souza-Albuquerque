@@ -7,7 +7,12 @@
 
 - 👨‍💻 &nbsp; Estou estudando para me tornar um desenvolvedor Web Full Stack
 
-- 🎵 &nbsp; Gosto de tocar instrumentos e também de ensinar em meu tempo livre
+- 🎵 &nbsp; Gosto de tocar instrumentos e também de ensinar música em meu tempo livre
+
+<div>
+  <a href="https://github.com/Diego-Souza-Albuquerque">
+   <img height="180em" src=https://github-readme-stats.vercel.app/api?username=Diego-Souza-Albuquerque&hide=contribs,prs&count_private=true&show_icons=true&theme=transparent><img height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-Souza-Albuquerque&langs_count=8)](https://github.com/Diego-Souza-Albuquerque/github-readme-stats)>
+  </div>
 
 <div style="display: inline_block"><br>
   <h3>🌐 &nbsp; Web Technologies<h3>
