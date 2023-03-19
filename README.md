@@ -9,15 +9,18 @@
 
 - 🎵 &nbsp; Gosto de tocar instrumentos e também de ensinar música em meu tempo livre
 
-<div>
-  <a href="https://github.com/Diego-Souza-Albuquerque">
-   <img height="180em" src=https://github-readme-stats.vercel.app/api?username=Diego-Souza-Albuquerque&hide=contribs,prs&count_private=true&show_icons=true&theme=transparent><img height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-Souza-Albuquerque&langs_count=8)](https://github.com/Diego-Souza-Albuquerque/github-readme-stats)>
-  </div>
-<div style="display: inline_block"><br>
+ 
+<h2>  &nbsp;Tecnologias que uso: </h2>
+<div style="display: inline_block">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  </div>
+  <br>
+  <div>
+  <a href="https://github.com/Diego-Souza-Albuquerque">
+   <img height="180em" src=https://github-readme-stats.vercel.app/api?username=Diego-Souza-Albuquerque&hide=contribs,prs&count_private=true&show_icons=true&theme=transparent><img height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-Souza-Albuquerque&langs_count=8)](https://github.com/Diego-Souza-Albuquerque/github-readme-stats)>
   </div>
   
 <h3>⚙️&nbsp; Version Control Tools</h3>
