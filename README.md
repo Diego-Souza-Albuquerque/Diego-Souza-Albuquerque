@@ -3,11 +3,11 @@
 
 <h2>  &nbsp;Sobre mim: </h2>
 
-- 🎓 &nbsp; Sou graduado em Engenharia Química
+- 🎓🧪 &nbsp; Sou graduado em Engenharia Química
 
-- 👨‍💻 &nbsp; Estou estudando para me tornar um desenvolvedor Web Full Stack
+- 👨‍💻📖 &nbsp; Estou estudando para me tornar um desenvolvedor Web Full Stack
 
-- 🎵 &nbsp; Gosto de tocar instrumentos e também de ensinar música em meu tempo livre
+- 🎵🎮 &nbsp; Gosto de tocar instrumentos e também de jogar em meu tempo livre
 
  
 <h2>  &nbsp;Tecnologias que uso: </h2>
