@@ -5,7 +5,7 @@
 
 - 🎓🧪 &nbsp; Sou graduado em Engenharia Química
 
-- 👨‍💻📖 &nbsp; Estou estudando para me tornar um desenvolvedor Web Full Stack
+- 👨‍💻📖 &nbsp; Desenvolvedor Front-End
 
 - 🎵🎮 &nbsp; Gosto de tocar instrumentos e também de jogar em meu tempo livre
 
