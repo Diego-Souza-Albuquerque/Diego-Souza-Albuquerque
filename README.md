@@ -7,8 +7,7 @@
 
 - 👨‍💻📖 &nbsp; Desenvolvedor Front-End
 
-- 🎵🎮 &nbsp; Gosto de tocar instrumentos e também de jogar em meu tempo livre
-
+- Portfólio: https://diegoalbuquerque.vercel.app/
  
 <h2>  &nbsp;Tecnologias que uso: </h2>
 <div style="display: inline_block">
@@ -27,7 +26,7 @@
   <br>
  
   
-<h2>🤝&nbsp; Connect with Me</h2>
+<h2>🤝&nbsp; Conecte-se comigo :)</h2>
 
 <div>
     <a href="https://www.linkedin.com/in/diego-souza-albuquerque-a894166b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
